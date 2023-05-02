@@ -1,0 +1,14 @@
+body {
+    background-color: rgba(128, 128, 128, 0.322);
+}
+nav > a {
+    margin-right: 10%;
+    text-decoration: none;
+}
+main > p {
+    text-align: justify;
+}
+main > img {
+    max-width: 100%;
+    height: auto;
+}
